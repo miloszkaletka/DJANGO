@@ -1,0 +1,1 @@
+web: gunicorn filmy.wsgi.py --log-file -
